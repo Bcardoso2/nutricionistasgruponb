@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "231697581803",
+    "project_id": "nutribrasil-23adb",
+    "storage_bucket": "nutribrasil-23adb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231697581803:android:23f913ea84964aa4e8e0ae",
+        "android_client_info": {
+          "package_name": "com.example.nutris_nb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKM1QvXO2zGFdlv7JdKBAHcf9_-uF471Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
